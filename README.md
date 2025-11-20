@@ -1,4 +1,4 @@
 
 ```yaml
-- uses: flatpaks/runner-cleanup@v1
+- uses: flatpaks/runner-cleanup@2
 ```
